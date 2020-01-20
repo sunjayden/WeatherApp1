@@ -23,6 +23,13 @@
             android:layout_height="wrap_content" />
         <EditText
             android:layout_margin="15dp"
+            android:inputType="textPersonName"
+            android:hint="Enter your name"
+            android:id="@+id/signupName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <EditText
+            android:layout_margin="15dp"
             android:inputType="textEmailAddress"
             android:hint="Enter your email"
             android:id="@+id/signupEmail"

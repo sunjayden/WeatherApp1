@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "276332093690-clu98g2nie2fc4qvjhgpi2vtsjvvq3j3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weatherapp1",
+            "certificate_hash": "5bf21d15403ea7abd137fd1f2fa9cec9f94b948c"
+          }
+        },
+        {
           "client_id": "276332093690-kfdnlfjf47cfbm7vn0radbbqiqmonj25.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
